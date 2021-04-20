@@ -1,10 +1,10 @@
 #BMI calculator
 
-name = "Giannis Antetokounmpo"
-height_feet = 6
+name = "himal patel"
+height_feet = 5
 height_inches = 11
 height_feet_inches = (height_feet * 12) + height_inches
-weight_lbs = 230
+weight_lbs = 145
 bmi = ((weight_lbs/height_feet_inches ** 2) * 703)
 
 print(name)
